@@ -9,10 +9,13 @@ Command line Application that takes in currency (using ISO 4217 code) as an argu
 
  ## To run the app
 * In your terminal:
-        * $ git clone https://github.com/wanguinjoka/currency_checker
-        * $ cd currency_checker
-        * $ python cyckr.py USD - (this is the input currency code using
-                                       ISO 4217 for example)
+```
+        $ git clone https://github.com/wanguinjoka/currency_checker
+        $ cd currency_checker
+        $ python cyckr.py USD - (this is the input currency code using
+                                       ISO 4217 example)
+        & python cyckr.py --help
+```
         
  ## License
 MIT &copy;2019
